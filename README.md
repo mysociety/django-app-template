@@ -14,7 +14,7 @@ following from within your virtualenv (replace app_name with what you'd like
 your app to be called):
 
 ```
-$ ./manage.py startapp --extensions md --template=https://github.com/mysociety/django-app-template/archive/master.zip app_name
+$ ./manage.py startapp --extension md --template=https://github.com/mysociety/django-app-template/archive/master.zip app_name
 ```
 
 See also
